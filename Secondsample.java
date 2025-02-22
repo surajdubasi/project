@@ -18,7 +18,7 @@ class
 		it is showing the lines of code whstever we have changed from the begining 
 		git status : whilll show the status of the file 
 		git log : shows what we have committed prebviously 
-		git branch : shows main/master or anyother branch 
+		git branch : shows main/master or anyother branch */
 		
 	}
 }
